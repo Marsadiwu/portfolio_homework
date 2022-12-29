@@ -1,0 +1,21 @@
+:root {
+  --primary-color: rgba(39, 33, 66, 1) ;
+  --main-font: font-family: "Nunito", sans-serif; ;
+}
+
+body {
+  font-family: var(--main-font);
+  color: var(--primary-color);
+}
+
+h1 {
+}
+
+footer {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  background-color: rgba(249, 247, 254, 1);
+}
+footer img {
+  width: 70px;
+}
